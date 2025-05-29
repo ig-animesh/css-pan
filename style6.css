@@ -1,0 +1,28 @@
+.pan-card{
+    border: 2px solid black;
+    width: 450px;
+    /* height: 350px; */
+    margin: auto;
+    margin-top: 10vh;
+    background-image: url('images.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heading{
+    display: flex;
+    justify-content: space-between;
+}
+
+.content{
+    display: flex;
+}
+.content p{
+    margin-left: 20px;
+    
+}
+.names{
+    margin-left: 10px;
+}
+
+
